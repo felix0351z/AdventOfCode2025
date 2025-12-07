@@ -1,5 +1,4 @@
-package org.example
-
+package de.felix0351.aoc2025
 import java.io.File
 
 class Bank(val batteries: CharArray) {
